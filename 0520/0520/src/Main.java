@@ -36,8 +36,8 @@ class PlayerATeam extends Player
 
         Scanner scanner = new Scanner(System.in);
 
-        if(number.charAt(0) == scanner.charAt(1)) {
-
+        if(number.charAt('i') == scanner.charAt('i')) {
+            strike += strike;
         }
 
 
